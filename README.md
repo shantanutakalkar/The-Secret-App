@@ -1,5 +1,10 @@
 FUll MERN Stack Secret App
 
+
+A web app where the user can submit a secret text anonymously for the world to see without revealing his/her identity. It supoorts sign in using google using OAuth 2.0 and using salting and hashing to save local users' data.
+
+A web app where the user can submit a secret text anonymously for the world to see without revealing his/her identity. It supoorts sign in using google using OAuth 2.0 and using salting and hashing to save local users' data.
+
 We’ll be creating a minimal full-stack login/authorization  Secret app using the MERN stack (MongoDB for our database, Express and Node for our backend, and React for our frontend, and  used passport JS also). We’ll also use Google API for login and register using Google. Also Deploy this on heroku platform. For Database  I used No-SQL Database Mongo-DB and also used  EJ-Template for making different pages.
 
 Full codebase can be viewed here:
