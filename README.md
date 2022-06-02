@@ -16,11 +16,17 @@ Database will store data of users i backend.when particular user are login then 
 Process -:
 
 Initialize our backend using npm and install necessary packages
+
 Set up a MongoDB database using in MOngodb atlas
+
 Set up a server with Node.js and Express
+
 Create a database schema to define a User for registration and login purposes
+
 Set up two API routes, register and login, using passport + jsonwebtokens for authentication and validator for input validation
+
 Test our API routes using Postman
+
 Build backend from scratch without boilerplate code, which I feel is more ideal for first learning about MERN apps
 
 
