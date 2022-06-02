@@ -1,4 +1,5 @@
-#FUll MERN Stack Secret App
+FUll MERN Stack Secret App
+
 We’ll be creating a minimal full-stack login/authorization  Secret app using the MERN stack (MongoDB for our database, Express and Node for our backend, and React for our frontend, and  used passport JS also). We’ll also use Google API for login and register using Google. Also Deploy this on heroku platform. For Database  I used No-SQL Database Mongo-DB and also used  EJ-Template for making different pages.
 
 Full codebase can be viewed here:
